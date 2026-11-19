@@ -1,0 +1,2 @@
+# vrm-lipsync
+Three.JSでVRMモデルをリップシンクさせるデモです。
