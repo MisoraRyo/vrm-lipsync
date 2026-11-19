@@ -2,6 +2,8 @@
 
 Three.js と Web Audio API を使用して、VRM モデルの口を音声に合わせてリップシンクさせるデモアプリケーションです。
 
+![VRM Lipsync Demo](./public/lipsync.png)
+
 ## 機能
 
 - **リップシンク**: 音声の周波数分析を使用してVRMモデルの口の動きを制御
