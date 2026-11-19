@@ -65,12 +65,6 @@ VRM Animation ファイル（`.vrma`）は `public/motion/` ディレクトリ�
 2. **フォルマント推定**: 周波数データからフォルマント（音声の特性周波数）を推定
 3. **リップシンク制御**: 推定されたフォルマントに基づいてVRMの口の表現を制御
 
-## ライセンス
-
-MIT License
-
-詳細は [LICENSE](LICENSE) ファイルを参照してください。
-
 ## 参考資料
 
 - [VRM Specification](https://vrm.dev/)
