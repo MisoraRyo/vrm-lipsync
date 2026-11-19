@@ -37,9 +37,7 @@ VRMモデルがない場合は、以下の手順で追加してください：
 **サンプルディレクトリ構造:**
 ```
 public/model/
-├── AvatarSample_A.vrm
 ├── AvatarSample_Y.vrm
-└── AvatarSample_Y2.vrm
 ```
 
 ## 音声ファイルの追加
